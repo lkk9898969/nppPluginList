@@ -820,9 +820,9 @@
 		{
 			"folder-name": "NppMarkdownPanel",
 			"display-name": "Markdown Panel",
-			"version": "0.9.0",
-			"id": "45004f2b0285365de03c246ead6295462b0898004461c313be14be519c522c34",
-			"repository": "https://github.com/mohzy83/NppMarkdownPanel/releases/download/0.9.0/NppMarkdownPanel-0.9.0.0-x86.zip",
+			"version": "0.9.1",
+			"id": "d9249efeda4ce8336b2cf871205464d4ddaca5e3bc9558d9ebf129d15137c23b",
+			"repository": "https://github.com/mohzy83/NppMarkdownPanel/releases/download/0.9.1/NppMarkdownPanel-0.9.1.0-x86.zip",
 			"description": "Lightweight plugin to display rendered Markdown files.",
 			"author": "Mohzy83",
 			"homepage": "https://github.com/mohzy83/NppMarkdownPanel"
@@ -1299,9 +1299,9 @@
 		{
 			"folder-name": "NppVim",
 			"display-name": "NppVim",
-			"version": "1.8.0.0",
-			"id": "A2D3A7312F9010E9019AF5C3A62F56BF133D454BA5732ED3EAC5A8C4C9F5ABA4",
-			"repository": "https://github.com/h-jangra/NppVim/releases/download/1.8.0.0/NppVim.zip",
+			"version": "1.10.0.0",
+			"id": "71da417945f0121c465c081342b09665a8e00d04a8ff463ebcccc807c4f5a820",
+			"repository": "https://github.com/h-jangra/NppVim/releases/download/1.10.0.0/NppVim-1.10.0.0-x86.zip",
 			"description": "A Notepad++ plugin that adds Vim-style editing and key bindings.",
 			"author": "h-jangra",
 			"homepage": "https://github.com/h-jangra/NppVim"
@@ -1866,10 +1866,10 @@
 		{
 			"folder-name": "VirtualFolders",
 			"display-name": "Virtual Folders",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"npp-compatible-versions": "[8.8.5,]",
-			"id": "adc7056900b47c29060d9d6f3ce8b8b7e0cbc2bf1b778de524f767f8cd875cc8",
-			"repository": "https://github.com/FatihC/VirtualFolders/releases/download/v1.0.2/VirtualFolders-v1.0.2-x86.zip",
+			"id": "43238e68d9173af3d89a4a376dc92b6573dda82b45c32a5084d166171c71e0ad",
+			"repository": "https://github.com/FatihC/VirtualFolders/releases/download/v1.0.3/VirtualFolders-v1.0.3-x86.zip",
 			"description": "This plugin adds a dockable tree panel where you can create your own virtual folder structure. Group files from different paths, reorder them freely, and keep related resources together without touching the actual filesystem.",
 			"author": "Fatih Coşkun",
 			"homepage": "https://github.com/FatihC/VirtualFolders"
